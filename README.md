@@ -1,36 +1,145 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧠 Nexus Intelligence
 
-## Getting Started
+> AI-powered global intelligence platform for tracking technology, economic policy, and cybersecurity developments.
 
-First, run the development server:
+🌐 Live Demo: https://nexusinteli.vercel.app
+
+---
+
+## 📌 Overview
+
+**Nexus Intelligence** is a modern web-based intelligence dashboard that aggregates and presents global developments across **Artificial Intelligence, Economic Policy, and Security** domains.
+
+The platform transforms real-world news and information into a clean, structured intelligence feed, helping users monitor emerging trends in technology, policy, and cybersecurity.
+
+---
+
+## ✨ Features
+
+### 🤖 AI & Models
+- Latest artificial intelligence developments
+- AI industry updates
+- Model and technology tracking
+
+### 📊 Economic Policy
+- Global economic movements
+- Fiscal policy monitoring
+- Market intelligence updates
+
+### 🔐 Security
+- Cybersecurity developments
+- Digital security trends
+- Global security intelligence
+
+### 📰 Live Intelligence Feed
+- Real-time news aggregation
+- Source-based briefings
+- Categorized intelligence updates
+- Article summaries
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### Deployment
+- Vercel
+
+### APIs
+- News / Intelligence API integration
+- Environment-based API configuration
+
+---
+
+## 🏗️ Project Structure
+
+```
+Nexus-Intelligence/
+│
+├── app/
+│   ├── components/
+│   ├── pages/
+│   └── api/
+│
+├── public/
+│
+├── styles/
+│
+├── .env.local
+├── package.json
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/nexus-intelligence.git
+```
+
+Navigate:
+
+```bash
+cd nexus-intelligence
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Create environment file:
+
+```env
+NEXT_PUBLIC_API_URL=your_api_url
+```
+
+Run development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🌍 Deployment
 
-To learn more about Next.js, take a look at the following resources:
+This project is deployed using Vercel.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Production:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+https://nexusinteli.vercel.app
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎯 Vision
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Nexus Intelligence aims to provide a centralized platform for understanding global technological and geopolitical shifts by combining AI-driven analysis with real-time information monitoring.
+
+---
+
+## 👨‍💻 Developer
+
+**CodewithZia**
+
+Portfolio:
+https://codewithzia.vercel.app
+
+---
+
+© 2026 All rights reserved, CodewithZia
